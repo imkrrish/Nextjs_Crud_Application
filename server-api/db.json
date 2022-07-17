@@ -1,0 +1,46 @@
+{
+  "customers": [
+    {
+      "id": "19217efd-8d9c-4fa4-8602-192fb426061e",
+      "Username": "Vinod",
+      "email": "vinod12@gmail.com",
+      "phoneno": "7389954272",
+      "company": "Saturn"
+    },
+    {
+      "id": "471b9f26-a0e2-4152-afc4-7ab572bcb4fe",
+      "Username": "Vikash",
+      "email": "Vikashtt@gmail.com",
+      "phoneno": "8889954345",
+      "company": "Jupiter"
+    },
+    {
+      "id": "db2605d1-53a2-4132-bb8e-d3d5a692ca34",
+      "Username": "Parmod",
+      "email": "parmodms@gmail.com",
+      "phoneno": "7789645378",
+      "company": "Mars"
+    },
+    {
+      "id": "b8ceefdb-a1b9-45b8-984c-ba82e561b56b",
+      "Username": "Suchitra",
+      "email": "suchitra36@gmail.com",
+      "phoneno": "9876785646",
+      "company": "Earth"
+    },
+    {
+      "id": "25b8b84d-e70c-46a2-b41b-e9716c663a6f",
+      "Username": "Test",
+      "email": "testmail",
+      "phoneno": "7894561230",
+      "company": "test"
+    },
+    {
+      "Username": "test1",
+      "email": "testmail1",
+      "phoneno": "1234567890",
+      "company": "test2",
+      "id": "3698d56f-f79a-4005-8cc6-a32be1e4f911"
+    }
+  ]
+}
